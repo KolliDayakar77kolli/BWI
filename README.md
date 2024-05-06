@@ -12,7 +12,6 @@ Features in My Project:
 
 4). Create add to cart button on product
 
-
 Tricky Part Added with Additional Features Here: 
 
 5). Implemented a cart and shows  the cart count. 
